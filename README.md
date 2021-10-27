@@ -1,6 +1,6 @@
 - 👋 Hey there! I’m @MChiancone
 - 👀 I’m interested in ... learning, exercising the body mind and spirit, software development. 
-- 🌱 I’m currently learning ... Bootstrap and Javascript basics
+- 🌱 I’m currently learning ... React! ---> React Native ----> Node.js
 - 💞️ I’m looking to collaborate on ... many a things in the future
 - 📫 How to reach me ... tbd
 
