@@ -1,6 +1,6 @@
 - 👋 Hey there! I’m @MChiancone
-- 👀 I’m interested in ... learning, exercising the body mind and spirit, software development. 
-- 🌱 I’m currently learning ... React! ---> React Native ----> Node.js
+- 👀 I’m interested in ... learning; exercising the body, mind, and spirit; software development. 
+- 🌱 I’m currently learning/refining ... all things web development ... more specifically: Gatsby development at the moment:)
 - 💞️ I’m looking to collaborate on ... many a things in the future
 - 📫 How to reach me ... tbd
 
